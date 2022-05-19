@@ -1,0 +1,5 @@
+.idea
+__pycache__
+build
+old
+dist/convert_xlsx2csv.zip
