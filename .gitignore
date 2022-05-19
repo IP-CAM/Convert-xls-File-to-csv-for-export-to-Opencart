@@ -3,3 +3,4 @@ __pycache__
 build
 old
 dist/convert_xlsx2csv.zip
+main.spec
