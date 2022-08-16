@@ -4,7 +4,7 @@
 
 Desktop application for converting xls to csv. Then you import to OpenCart store. This application for correct update price in OpenCart.
 
-![screen](https://github.com/vstaran/convert-to-csv/blob/main/image.jpg?raw=true)
+![screen](https://github.com/vstaran/convert-to-csv/blob/main/screen.png?raw=true)
 
 
 ## Start program
